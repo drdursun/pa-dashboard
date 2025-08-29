@@ -58,6 +58,57 @@ df_fd = merged[
     (merged["point_biserial"] >= min_dis) &
     (merged["point_biserial"] <= max_dis)
 ]
+with st.sidebar.expander("📘 How to Read the Dashboard"):
+    st.markdown("""
+    ### **Item Difficulty & Discrimination Scatterplot**
+    This chart shows how each PA item performs:
+    - The horizontal axis represents item difficulty (percentage of students who answered correctly).
+    - The vertical axis shows item discrimination (how well the item distinguishes between high- and low-performing students).
+
+    **Example**: An item at 40% difficulty and 0.45 discrimination means that only 40% of students got it right, and the item is highly effective at separating stronger and weaker performers.
+
+    **Interpretation**: Items in the upper-right corner (moderate difficulty, high discrimination) are ideal. Items in the lower-left (very easy or very hard, low discrimination) may need review or revision.
+
+    ### **Item Details Table**
+    This table lists each item with its text, difficulty percentage, and point-biserial discrimination score.
+
+    Use this table to scan for items that are too easy, too hard, or not discriminating well. Sorting by each column helps identify patterns across the assessment.  
+    For example, sorting by “Point-Biserial” from lowest to highest can quickly surface items that do not differentiate well between high- and low-performing students — such as an item with a discrimination score below 0.1, which may need revision or removal.
+
+    **Example**: Suppose Item 12 has a difficulty of 78% and a point-biserial of 0.08. This means most students answered it correctly, but it does not effectively distinguish between stronger and weaker performers.
+
+    **What Point-Biserial Means**:  
+    Point-biserial is a statistical measure that shows how well an item correlates with overall performance. A higher score (e.g., 0.4 or above) means students who did well on the PA were more likely to get the item right, and those who struggled were more likely to miss it.
+
+    ### **Difficulty & Discrimination Filters**
+    These sliders help focus on specific subsets of items:
+    - Difficulty Range filters items based on how easy or hard they are.
+    - Discrimination Range filters items based on how well they differentiate student performance.
+
+    **Example**: Setting difficulty to 30–70% and discrimination to 0.3–0.6 will isolate items that are moderately challenging and highly informative.
+
+    To identify poor-performing items, try setting the difficulty range to very low (e.g., 0–20%) or very high (e.g., 80–100%), and the discrimination range to low values (e.g., 0.0–0.2).
+
+    ### **Distractor Analysis**
+    This section evaluates how students responded to each option in a selected PA item, focusing on the effectiveness of incorrect choices (distractors).
+
+    It includes:
+    - A bar chart showing how often each option was selected and how often it was correct.
+    - A table showing total selections, number correct, selection rate, and correctness rate for each option.
+
+    **How to Interpret Distractors**
+
+    | Distractor Type         | Selection Rate | Correctness Rate | Interpretation                                      |
+    |-------------------------|----------------|------------------|-----------------------------------------------------|
+    | Effective               | 10–40%         | ~0%              | Attracts lower-performing students appropriately    |
+    | Weak                    | <5%            | ~0%              | Rarely chosen; offers little diagnostic value       |
+    | Misleading              | >40%           | ~0%              | Over-chosen; may confuse high performers            |
+    | Ambiguous or flawed     | Any            | >5%              | Incorrect but frequently marked correct; needs review
+
+    **Example**:  
+    If Option B was selected by 60% of students and only 10% of those got it right, it may be misleading or poorly worded.  
+    If Option D was selected by just 2% of students and never correct, it may be too implausible to be useful.
+    """)
 
 # ──────────────────────────────────────────
 # 3. Main View: Scatter & Item Table
