@@ -1,0 +1,21 @@
+source venv/bin/activate
+nano reliability_by_text.py
+results = []
+for q_text in pivot.columns.drop("total_score"):
+source venv/bin/activate
+nano reliability_by_text.py
+    item_scores = pivot[q_text]
+    rest_score = pivot["total_score"] - item_scores
+
+    # only compute if the item itself has >1 unique value
+    if item_scores.nunique() > 1:
+        corr, pval = pointbiserialr(item_scores, rest_score)
+    else:
+        corr, pval = None, None
+
+    results.append({
+        "question": q_text,
+        "point_biserial": corr,
+        "p_value": pval
+    })
+

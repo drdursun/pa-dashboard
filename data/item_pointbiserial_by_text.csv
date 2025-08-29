@@ -1,0 +1,468 @@
+question,point_biserial,p_value
+ It's likely that your morning cup of joe wasn't even grown in America.,0.169,<0.0001
+"""Basked"" in paragraph 2 is closest in meaning to ____________.",0.0812,0.0007
+"""Bleeding money"" in paragraph 1 most likely means European news organizations are ____________ money.",0.2936,<0.0001
+"""Buggy"" in paragraph 2 is closest in meaning to ____________.",0.1553,<0.0001
+"""Climbed"" in paragraph 2 and paragraph 3 show that the stock price ____________.",0.3345,<0.0001
+"""Content"" in paragraph 3 is closest in meaning to ____________.",nan,<0.0001
+"""Crashed"" used here is closest in meaning to ____________.",0.3357,<0.0001
+"""Delicate"" in paragraph 1 is closest in meaning to ____________.",0.0927,0.0001
+"""Frustrated"" used here means that you are ____________.",0.1549,<0.0001
+"""Gleaned"" as used in this passage is closest in meaning to ____________.",0.1456,<0.0001
+"""Handy"" used here means that you are ____________.",0.1473,<0.0001
+"""He just asked me about my surgery and asked me how I had been since Wimbledon,"" said Murray.",0.257,<0.0001
+"""High-end"" in paragraph 3 is closest in meaning to ____________.",0.2154,<0.0001
+"""It"" in paragraph 2 refers to ____________.",0.0763,0.0014
+"""Left behind"" as used in this passage means that something was ____________.",0.1275,<0.0001
+"""My goodness"" in this conversation was used to express __________.",-0.1268,<0.0001
+"""Out of touch"" as used in this conversation most likely means __________.",0.1509,<0.0001
+"""Painstakingly"" used here is closest in meaning to ____________.",nan,<0.0001
+"""Palatable"" in paragraph 5 is closest in meaning to ____________.",nan,<0.0001
+"""Pushing"" used here is closest in meaning to ____________.",nan,<0.0001
+"""Repelled"" in paragraph 3 is used to show that migrants were ____________.",0.1724,<0.0001
+"""Run"" used here is closest in meaning to ____________.",0.184,<0.0001
+"""Running"" in paragraph 1 shows that Eric Schmidt ____________ Google.",0.1632,<0.0001
+"""Sensationalism"" in paragraph 1 is described as ____________.",nan,<0.0001
+"""Set the standard"" is used here to say that ____________.",0.1531,<0.0001
+"""She works harder than most of them do,"" he says, comparing the pet favorably to some people.",0.176,<0.0001
+"""Since then"" in paragraph 3 refers to what point in time?",0.2287,<0.0001
+"""Strange bird"" is most likely used to describe someone who ____________.",nan,<0.0001
+"""Stressed"" in paragraph 4 is closest in meaning to ____________.",0.223,<0.0001
+"""Sweep"" in paragraphs 1 and 3 is closest in meaning to ____________.",0.1722,<0.0001
+"""Thematic"" in paragraph 3 is closest in meaning to ____________.",0.1498,<0.0001
+"""Trumping"" used here is closest in meaning to ____________.",nan,<0.0001
+"""Uninitiated"" in paragraph 5 is used to describe ____________.",0.1075,<0.0001
+"""Weighed"" in paragraph 2 is closest in meaning to ____________.",0.1003,<0.0001
+"""Well up"" as used in paragraph 3 states that ____________.",0.0813,0.0006
+"""Withstood"" in paragraph 3 is closest in meaning to be ____________ something.",0.1586,<0.0001
+(no article) certain curricula that intend to meet the individual needs of children in special education programs are highly favorable.,0.1969,<0.0001
+A little white lie is not always harmless. Telling the truth is important at all times.,0.1226,<0.0001
+A press release is scheduled to happen sometime this week.,nan,<0.0001
+"A sales ""rep"" is short for ____________.",0.0886,0.0002
+A winner will then be chosen by a jury including Scott and Michael Fassbender.,0.3666,<0.0001
+"According to Obama, dependence on foreign oil ____________.",0.3173,<0.0001
+"According to health officials, what should residents drink during a heat wave?",-0.042,0.0782
+"According to the article, what will most likely happen next?",0.1093,<0.0001
+"According to the passage, the participants in the study ____________.",0.1437,<0.0001
+"According to the study, the more texts 10-to-14-year-olds sent, the worse their grammar performance.",nan,<0.0001
+"According to the study, why did the bilinguals outperform the monolinguals?",0.1958,<0.0001
+"According to this article, Bolt was the first __________.",0.1541,<0.0001
+"According to this passage, rumor has it that ____________.",0.1941,<0.0001
+"According to this passage, what do Republicans plan to focus on?",0.1002,<0.0001
+"According to this passage, what happened when Brazil boycotted Google?",0.259,<0.0001
+"According to this passage, what is Samsung planning to do?",0.1947,<0.0001
+"According to this passage, what is special about this car?",0.1302,<0.0001
+"According to this passage, what is true about the competition?",0.1585,<0.0001
+"According to this passage, who is Samsung's rival?",0.1596,<0.0001
+Advanced Investments is essential for serious investors and asset managers who delegate management of their money to a professional.,0.2,<0.0001
+"Advertisements that are likely to cause people to have ""body confidence issues"" will be banned from London's public transport network from next month, mayor Sadiq Khan announced on Monday.",nan,<0.0001
+After the meeting we're going to sit down to discuss the results.,0.13,<0.0001
+"Alberto Alonso wants a ""chance"" (paragraph 4) to ____________.",0.1358,<0.0001
+All motion sickness results from your body sensing a discrepancy between what you see and what you feel.,0.1694,<0.0001
+All students are responsible for finding their own mentor.,0.1883,<0.0001
+"Although everyone has a say in this issue, the judge will be making the final decision.",0.1663,<0.0001
+An example of this blurred line between fashion and its representation is the collection of over four hundred photographs by Pierre-Louis Pierson.,0.1783,<0.0001
+An important part of networking is building relationships.,0.0454,0.0571
+An important part of parenting is listening to your children.,0.1749,<0.0001
+An international gas market is developing. Buyers will gain more than sellers.,0.1993,<0.0001
+Angela is going to the doctor's office ____________.,-0.1021,<0.0001
+Animals can be a great way to get the viewer to stop skipping through the commercials on their DVR or delay a trip to the fridge during a commercial break.,0.1469,<0.0001
+"Apple is buying more flair, swagger, and song-picking savvy with its $3 billion acquisition of Beats Electronics, a headphone and music streaming specialist founded by two famous rappers.",nan,<0.0001
+Apple is going to spend $850 million on a solar energy project. The project will generate power for Apple's new headquarters in California.,0.1583,<0.0001
+"As Mr. Adams languished in prison, some of his tormentors were caught wandering off the straight and narrow.",0.2319,<0.0001
+"As an incentive to self-improvement and active participation, a few athletes selected by their team qualified for the award.",nan,<0.0001
+"As explorers traipsed around the globe and discovered new places, they often had no idea what to call them, so they asked the locals.",0.1742,<0.0001
+"As temperatures slowly rise up and down the eastern seaboard, it becomes harder and harder to deny that global warming is, in fact, a real issue.",nan,<0.0001
+"As the US Federal Reserve has scaled back, or ""tapered"", its large-scale asset purchases, emerging markets have looked distinctly unstable.",nan,<0.0001
+As the boys moved around the neighborhood they found new and undiscovered playgrounds.,0.1362,<0.0001
+"As traditional drugs lose their lure, novel ones are filling the gap in the market.",nan,<0.0001
+At least 50 flooded homes in Queens caught fire and were destroyed. ,0.3714,<0.0001
+"Beckloff noted that the children also have a close relationship with their 34-year-old cousin TJ Jackson, who was named temporary guardian last week.",0.0095,0.6912
+Break It Off compared quitting smoking to ____________.,0.1655,<0.0001
+"Brewing, distilling, and winemaking are nearly universal activities, and folks will ferment just about anything.",nan,<0.0001
+"By 1949, Wright had become a permanent resident in Paris, having left the United States two years earlier.",0.3165,<0.0001
+"By late Thursday, the government said the toll from the tremor, the most powerful recorded here since 1934, had risen to 6,130 dead and 13,827 injured.",0.1339,<0.0001
+Clinton was excited as she accepted the first founders award.,-0.0483,0.043
+"Connecting everyday objects to networks, allowing them to send and receive data, is widely seen as the next major evolution of the Internet and one that may transform how many businesses operate and people live.",nan,<0.0001
+Connie Vincent seems ____________ about not working tomorrow.,0.0187,0.4341
+"Connie Vincent, a mail carrier, was already sweating as she began her rounds in the new residential neighborhood.",0.3102,<0.0001
+Could I come over on a Thursday afternoon sometime?,0.1443,<0.0001
+"Craig Gerber, co-executive producer of ""Sofia the First,"" clarified in a Facebook post on Friday that Sofia is ""a mixed-heritage princess in a fairytale world.""",0.091,0.0001
+Do you mind turning down the volume? It's really loud in here.,nan,<0.0001
+Does Angela normally go to this doctor?,-0.0127,0.5933
+Eating a hearty breakfast and (no article) lunch might benefit people who are suffering from Type 2 diabetes.,0.167,<0.0001
+"Eliza Cicero, a financial analyst, was preparing for her last meeting when she received a call about the flooded office space.",0.1696,<0.0001
+"Europe‚Äôs leaders need to cut the power of Brussels in many areas, but in some they need to extend it.",0.3501,<0.0001
+Everyone knows how much playing for my country has always meant to me.,0.1839,<0.0001
+"Everyone signed the petition to open the zoo back up, yet it remained closed.",0.1696,<0.0001
+"Facebook moved into its new Frank Gehry-designed headquarters in Silicon Valley, with a rooftop park and ""the largest open-plan office in the world.""",nan,<0.0001
+Flag-waving Spanish workers livid over labor market reforms they see as flagrantly pro-business blocked traffic Thursday.,nan,<0.0001
+Food rations were given to whoever signed the petition first.,0.2537,<0.0001
+"Food safety is a scientific discipline describing handling, preparation, and storage of food in ways that prevent foodborne illness.",nan,<0.0001
+"For some people, the bear deep in the woods is easy to see while others have much difficulty doing so.",0.1886,<0.0001
+Foreign investors are helping Europe‚Äôs troubled businesses out of difficulty.,0.075,0.0017
+Freedman says they're putting customers on track to eliminate a few hundred calories a day from their diets.,0.1767,<0.0001
+"Given the labor intensity of organic farming, the yield is often smaller than a factory farm.",0.2381,<0.0001
+"Had I known that the traffic was so bad, I would have chosen to take the Brooklyn Bridge instead.",nan,<0.0001
+"Had I known the movie was so violent, I wouldn't have let my children watch it.",nan,<0.0001
+"Having a ""closet packed with skeletons"" in paragraph 3 most likely means that ____________.",nan,<0.0001
+Hawaii has been producing coffee since the mid-nineteenth century.,0.1085,<0.0001
+He was planning a surprise picnic for his wife when he found out about the severe weather conditions.,0.2239,<0.0001
+He will visit Linda in the hospital today.,0.1472,<0.0001
+He's very popular so he has a lot of friends.,0.3342,<0.0001
+Her actions responded to a shifting landscape of consumption and a philosophy of eating that was filtering down from foodies to everyone else.,nan,<0.0001
+Hospitals in the city that deliver babies will no longer hand out promotional formula.,0.1662,<0.0001
+How can you purchase tickets?,0.1956,<0.0001
+How did Apple respond to this issue?,nan,<0.0001
+How fast did Bolt run the 200 meters?,0.1515,<0.0001
+How high can it go?,0.2142,<0.0001
+How long does the show last?,0.1702,<0.0001
+How long is the product?,0.1468,<0.0001
+How many gold medals does Bolt have now?,0.1653,<0.0001
+How many officers so far have admitted to discriminatory actions and abuse toward Latinos?,nan,<0.0001
+How much are they spending on the hamburger?,-0.0646,0.0068
+How much does Mark Mahaney want a Netflix share to cost?,0.3392,<0.0001
+How much money is Google expected to make this year?,0.0948,<0.0001
+"However, it's not just in education where people are starting to take note.",0.1705,<0.0001
+I am afraid to go to bed in the dark.,0.1055,<0.0001
+I am deeply excited and honored to join you.,0.3131,<0.0001
+I can think of a few situations where animals should stay in the zoo.,0.1763,<0.0001
+"I had looked everywhere for the little dog without any luck, which was making me increasingly frustrated.",0.1582,<0.0001
+I look for new ways to cook fish every week.,0.1265,<0.0001
+"I told her to do whatever she wanted, and I could not be happier with the results.",0.1274,<0.0001
+I'm having some trouble with these boxes. Will you please help me move them?,nan,<0.0001
+"If grilling all the vegetables is the best idea, go ahead and do it.",0.1568,<0.0001
+"If it had rained even a little more, roads would have been closed for another day.",nan,<0.0001
+"If nominated by one of their employees, the CEOs at the conference would have been eligible to receive the award.",nan,<0.0001
+"If the Europeans could have foreseen the cataclysm that would befall the world on Aug. 4th of 1914, they would not have declared World War I.",nan,<0.0001
+"If the butterflies are ""free-flying"" it means that they ____________.",0.2012,<0.0001
+"If the children were sicker, they would need to go to an urgent care clinic.",0.03,0.2093
+"If the children were smaller, they would not be able to go on the ride.",0.1973,<0.0001
+"If the passage were to continue, what would most likely be discussed next?",0.1777,<0.0001
+"If there had been even one more person, we would not have fit in the car.",0.1667,<0.0001
+"If weather conditions were worse, the roads would be closed.",0.2041,<0.0001
+"If you eat now, you will be hungry later.",0.3265,<0.0001
+"If you have fewer than 10 items in your basket, you can be in the express line.",nan,<0.0001
+"If you want a friend in Washington, get a dog.",-0.0157,0.5108
+Imagine the many people who are traveling around hundreds of miles of streets; how are they going to find the right way? ,0.1614,<0.0001
+"In paragraph 2, Steve Jobs expresses that he thinks ____________.",0.1539,<0.0001
+"In paragraph 3, ""had a field day"" most likely means that Pulitzer ____________,",nan,<0.0001
+"In response to Apple's criticisms, Adobe ____________.",0.2058,<0.0001
+Is she buying a new car today?,0.3308,<0.0001
+Is this Stephen's first time visiting?,0.1717,<0.0001
+It can be inferred from paragraph 1 that Havaianas are ____________.,0.1725,<0.0001
+It can be inferred from paragraph 1 that ____________.,0.0544,0.0225
+It can be inferred from the passage that ____________.,nan,<0.0001
+It can be inferred from this passage that ____________.,0.1942,<0.0001
+It can be inferred from this passage that the woman ____________.,nan,<0.0001
+It can be inferred that Edward Snowden is ____________.,0.2271,<0.0001
+It can be inferred that ____________.,nan,<0.0001
+It can be inferred that this position ____________.,0.1888,<0.0001
+It can be inferred that workers in Johannesburg ____________.,0.3392,<0.0001
+It is most likely the case that ____________.,0.0477,0.0455
+It turns out that scientists are looking forward to printing in 4D.,0.1648,<0.0001
+It would be better if there were less light in this room.,0.0899,0.0002
+"It's possible for this to happen, isn't it?",0.1624,<0.0001
+Joe and Sam's sister decided to park her car in their garage.,0.1253,<0.0001
+"Johnson has been elected president, making her the first woman to take this role.",0.1843,<0.0001
+Korean music has its influence far beyond East Asia.,0.2105,<0.0001
+Lady Gaga is one of the most visible celebrities in the world.,0.0128,0.593
+"Lean, finely textured beef is both pink and ‚Äî like all ground beef ‚Äî has a slimy texture.",0.1342,<0.0001
+"Liberty and Peace were prepared ""to face,"" or to ____________, the press.",0.2246,<0.0001
+LinkedIn Corp. will soon open up its online professional networking service to high school students.,0.1794,<0.0001
+Lulea is an attractive location for businesses like Facebook because ____________.,nan,<0.0001
+Management announced that lunch would be provided regularly.,0.1615,<0.0001
+Marcela Davison Aviles _____________ the decision to call Sofia a Latina princess.,0.1746,<0.0001
+Miller suggests avoiding coffee during time periods when the body is naturally more alert.,nan,<0.0001
+"Minaj says Chanel, Versace, and Herve Leger were among her inspirations.",0.2283,<0.0001
+Nine inches of rain in parts of West Virginia destroyed or damaged more than 100 homes.,0.1095,<0.0001
+"Not only can animals be cute or cuddly, but they often trigger predictable emotions among humans.",0.1025,<0.0001
+"Old ideas of what to eat‚Äîlow-fat ice cream, diet soda, whatever‚Äîare shunted from the bobos to the masses, and new ones take their place.",nan,<0.0001
+"Once they found out the pizzeria was still open, the siblings put in an order for multiple pizzas.",0.34,<0.0001
+One orangutan named Tori became addicted to smoking when guests continually fed her cigarettes.,0.3065,<0.0001
+Output will increase to 81.76 million metric tons in 2013-2014 from an estimated 79.88 million tons in 2012.,0.1284,<0.0001
+Paragraph 2 exists to ____________.,0.4941,<0.0001
+Paragraph 3 exists to ____________.,0.4562,<0.0001
+Paragraph 4 implies that ____________.,0.1807,<0.0001
+Paragraph 5 exists to ____________.,nan,<0.0001
+"Paragraph 5 states that umami ""induces salivation"" which most likely means that ____________.",nan,<0.0001
+Parents are more likely than those without children to partake in these two activities.,0.1485,<0.0001
+Pasta infused with ____________ is trending lately.,nan,<0.0001
+Philadelphia became the first major US city to vote to tax sugary drinks.,0.1712,<0.0001
+Portugal needed the financial rescue after nervous investors stopped lending it money at affordable prices.,nan,<0.0001
+Postal officials quickly sent for a worker to repaint it.,0.0719,0.0026
+President Jeffries has arranged to visit the emperor either this month or next month.,0.1685,<0.0001
+Professionals are able to handle multiple clients at once.,0.1508,<0.0001
+Professionals are able to walk multiple dogs at a time.,0.1643,<0.0001
+Professor would refuse if you tried to pay her for her help.,0.3534,<0.0001
+Research shows that diet and exercise are not the keys to weight loss and health.,0.1901,<0.0001
+Rick Wagoner did NOT mention the ____________ of advanced batteries as a core competency for GM. ,0.1794,<0.0001
+"Salt, olive oil, and fresh lemon juice are among her pantry staples.",0.1645,<0.0001
+"Sanders, who wasn't properly trained for the role, injured his back and knee.",0.1777,<0.0001
+Scientists around the world are working very hard now to find a cure to cancer.,-0.026,0.2756
+Scientists have long known that sleeping in a cool room can help you sleep more peacefully.,0.1669,<0.0001
+Senator Rice has plans to visit either this week or next week.,0.1947,<0.0001
+Several of the committee members shared their opinions on the proposal.,nan,<0.0001
+She didn't eat the fudge caramel cheesecake because she was watching her figure.,nan,<0.0001
+She does NOT mention ____________ in this passage.,0.1461,<0.0001
+She found that the difference was minimal. ,0.1695,<0.0001
+"She likes bananas, but she like apples more.",-0.0001,0.997
+She should choose a job that considers her own interests.,0.178,<0.0001
+She was always afraid of the water; nevertheless she became a scuba diver.,nan,<0.0001
+"Should an express train be implemented, local stations between Church Av and Jay St-MetroTech would have 50% less peak service.",nan,<0.0001
+"Since catching pneumonia in 1985, Hawking has needed around-the-clock care and relies on a computer and voice synthesizer to speak.",nan,<0.0001
+"Since the desk is ""contoured"", it most likely ____________.",0.186,<0.0001
+Some characteristics of southern hospitality were described as early as 1835.,0.2084,<0.0001
+Stanford's Miles Unterreiner will pull off a remarkable double Saturday that would be logistically impossible without help from his school and a huge assist by the NCAA.,nan,<0.0001
+"Still, 2,500 Burger King stores will continue to offer Satisfries as a permanent menu item.",0.1573,<0.0001
+"Still, the Brewers of Europe said in a statement that beer is ""being singled out"" compared to wine.",0.3357,<0.0001
+Suzanne Barr most likely feels ____________.,nan,<0.0001
+Teachers who insist on meeting parents in the absence of the child probably have concerns to address.,0.1642,<0.0001
+"Thailand is swarming with cheap but risky cosmetic clinics, thanks to two powerful forces: Their prices are designed to attract the poor, and Thai society defines beauty as fair and delicate.",0.2141,<0.0001
+That girl has the longest hair I've ever seen.,0.1401,<0.0001
+"That's two deaths for every 100 million passengers on commercial flights, according to an Associated Press analysis of government accident data. ",0.1465,<0.0001
+"The ""crusade"" that is mentioned here refers to ____________.",nan,<0.0001
+"The ""near misses"" in paragraph 3 refer specifically to incidents that ____________.",nan,<0.0001
+The European Chamber is not convinced that this has systematically been the case in China‚Äôs recent investigations.,0.2338,<0.0001
+The Food and Drug Administration says it will begin cracking down on companies.,0.1634,<0.0001
+The Info Ladies project was created in 2008 by local development group D.Net and other community organizations. ,0.1285,<0.0001
+"The Metamorphosis' is a dark fantasy about a schizophrenic who believes he‚Äôs been turned into a human-sized beetle, terrorizing his family with his decrepit mental state.",0.3382,<0.0001
+"The Serb entered the court wearing a Darth Vader mask on Halloween, and continued to put on a show by winning the first set in just 21 minutes.",0.2181,<0.0001
+The United States will discuss how its efforts will effectively aide the civil war victims. ,nan,<0.0001
+The added expense of these extra ingredients is more than offset by a given company‚Äôs ability to produce foods in mass quantities.,0.1708,<0.0001
+The art curator's studio was filled with gorgeous antique wooden tables.,nan,<0.0001
+The artist created this piece using large flat metal scraps.,0.2162,<0.0001
+The author discusses breast cancer in order to __________.,nan,<0.0001
+"The author mentions ""reclined seats, extended table trays, and briefcases"" in paragraph 1 in order to _____________.",0.1608,<0.0001
+The author mentions Gisele Bunchen in paragraph 3 to show ____________.,0.1715,<0.0001
+The author mentions the new levy in order to ____________.,0.1633,<0.0001
+The book is exciting; it has been a bestseller for years now.,0.0941,<0.0001
+The boss requested too much food for the meeting.,-0.0409,0.0868
+The boy's painting is very colorful.,0.3185,<0.0001
+The cashier does NOT ask for a ____________.,0.2187,<0.0001
+The children were permitted to invite whomever they wanted to attend the celebration.,0.1982,<0.0001
+The contest was overseen by director Ridley Scott.,0.1716,<0.0001
+"The court's decision on online privacy, which cannot be appealed against, triggered a wave of internet alarm.",0.2003,<0.0001
+The culprit refused to say to whom the video belonged.,0.1365,<0.0001
+The day is beautiful.,-0.1999,<0.0001
+The dentist called for the next patient.,0.1219,<0.0001
+The doctor studied the results carefully.,0.2056,<0.0001
+The employee most likely asked if the computer was purchased at the store because ____________.,0.313,<0.0001
+"The employer did not give fair wages, nor did he agree to amend his ways.",0.3753,<0.0001
+The first paragraph exists to ____________.,0.1692,<0.0001
+The furnished apartment was under inspection all week because the former tenants had apparently gotten their furniture from a toxic area.,0.207,<0.0001
+The guests were encouraged to recommend whoever seemed qualified for the new position.,nan,<0.0001
+The human body isn't designed to process this form of sugar at such high levels.,0.1561,<0.0001
+The leader will give orders either today or tomorrow.,0.1518,<0.0001
+The main idea of this passage is in paragraph ____________.,0.1465,<0.0001
+"The main opposition, the Socialist Party, described the draft budget as ""brutal.""",0.3091,<0.0001
+The man does NOT say that physical activity helped him learn how to ____________.,0.1451,<0.0001
+The man‚Äôs main purpose is to ____________.,0.2073,<0.0001
+The movie is very good; it has been popular in English for a long time now.,0.201,<0.0001
+The multicolored container was under inspection for weeks before being thrown out for safety purposes.,nan,<0.0001
+The owner most likely hired security guards to ____________.,0.0497,0.0371
+The patient mailed the letter to the president.,0.0662,0.0055
+The phone call was most likely made ____________.,0.1386,<0.0001
+The political debates helped viewers gain insight into what was worrying each party the most.,nan,<0.0001
+The pressure is __________.,-0.0169,0.4796
+"The problem appears to be caused by UltraMist's spray valve, which is over-applying the product, Energizer said in a statement.",0.134,<0.0001
+The purpose of Stephen's visit is to __________.,0.1466,<0.0001
+The purpose of paragraph 4 is to ____________.,0.1979,<0.0001
+The search giant now has brought its all-seeing eyes ‚Äî mounted for the first time on a backpack ‚Äî down into the Grand Canyon.,0.1083,<0.0001
+The settlement still must be agreed to by town officials.,nan,<0.0001
+"The six large outbreaks of twisters, which were especially deadly this year, can't be attributed to global warming.",nan,<0.0001
+The skater managed to pull off the most complex stunt during the competition.,nan,<0.0001
+The stadium must remain closed until there are no safety risks to the public attending events at the venue.,0.3255,<0.0001
+The staff praised the members of the men‚Äôs basketball team for accepting their unfaithful coach‚Äôs apology.,nan,<0.0001
+The system tracks student progress and is meant to tailor lessons to each student's level.,nan,<0.0001
+The teachers would have been eligible to win the university-wide award if any of their students nominated them.,nan,<0.0001
+The thousands of guests quickly packed the San Diego Convention Center for the sold out Comic-Con.,0.2072,<0.0001
+The two moved in together and tabloids soon began predicting everything from marriage to babies for the new couple.,0.2028,<0.0001
+"The way bilinguals ""performed"" in this study is most like the way ____________ would perform.",0.1712,<0.0001
+"The word ""They"" in paragraph 2 refers to ____________.",0.1393,<0.0001
+"The word ""generate"" in paragraph 3 is closest in meaning to ____________.",0.1667,<0.0001
+"The word ""penalty"" in paragraph 3 is closest in meaning to ____________.",0.0568,0.0173
+"The word ""their"" in paragraph 4 refers to ____________.",0.1377,<0.0001
+The word ‚Äòremote‚Äô is closest in meaning to ____________.,0.293,<0.0001
+"The world's biggest coffee producers are located in the ""Bean Belt.""",0.0312,0.191
+There needed to be less water in the fish tank for it to not splash all over the place.,0.1316,<0.0001
+There needed to be less water in the pool for it to not overflow.,0.155,<0.0001
+"There was enough food for everyone at the party, so everyone left feeling full and satisfied.",0.2157,<0.0001
+There were fewer than 10 issues that were discussed at the summit.,nan,<0.0001
+There were fewer than 15 people that showed up to the conference.,nan,<0.0001
+There will always be a chord beyond your tiredness and frustration.,0.2287,<0.0001
+"These arguments he discards for lack of evidence‚Äîbut when it comes to slimming down the masses with junk-food engineering, Freedman's fine to cross his fingers and hope it all works out.",nan,<0.0001
+They bought plates that were smaller than the plates they had before.,0.3184,<0.0001
+"They didn't leave yet, did they?",0.1842,<0.0001
+"They have two children; one is four years old, and the other is two years old.",0.1779,<0.0001
+"This audio implies that a ""shared culture"" is __________.",nan,<0.0001
+"This drug has been studied significantly, but never in a clinical trial on humans.",0.1585,<0.0001
+This graduation speech would be great if the message were relevant to the students.,0.1607,<0.0001
+This haircut is terrible.,0.1281,<0.0001
+This hamburger is made from ____________.,0.1607,<0.0001
+This is a great opportunity to sit down with friends to talk.,0.2074,<0.0001
+This passage is a/an ____________.,0.214,<0.0001
+This passage is mainly about Netflix's ____________.,0.3563,<0.0001
+This passage is mainly about ____________.,0.2192,<0.0001
+This sunrise is beautiful.,0.1851,<0.0001
+"This week, luxury hotel brand the Four Seasons has followed suit, launching a new app that allows guests to make special requests, check in and check out, and seek out local recommendations.",0.1767,<0.0001
+"To ""give ground"" means to __________.",0.1656,<0.0001
+"To add to the drama will be the presence in the parliament of so many populist parties, most of them anti-European.",nan,<0.0001
+"To open the conversation with such a vitriolic attack is clearly the politician's way of saying ""the gloves have come off.""",nan,<0.0001
+"To try to answer the question of whether gallery clusters actually jumpstart transformation, Schuetz looks at every city block in Manhattan to see if there is evidence of accelerated development in the years after an art gallery moved into a neighborhood.",nan,<0.0001
+"To whom is Obama referring when he says ""we""?",0.1651,<0.0001
+"Tom won't forget, will he?",0.1936,<0.0001
+Turtles move slowly.,0.0241,0.3123
+"Two other regions voted against the proposal, which was eventually approved.",0.317,<0.0001
+Warren Weir took third.,0.1869,<0.0001
+"We can adopt measures that aren't very nice, but are absolutely necessary.",0.1329,<0.0001
+"We have enough milk for coffee, don't we?",0.1814,<0.0001
+"We love this bouquet of flowers, don't we?",0.1812,<0.0001
+We should look into some of the issues that were brought to our attention at the last meeting.,0.2248,<0.0001
+"We were hopeful that the law would be overturned some day, but we were completely stunned that it came when it did.",0.19,<0.0001
+"We're going to the show, aren't we?",0.2971,<0.0001
+What are Uggie‚Äôs future plans?,0.3513,<0.0001
+What are some European countries being asked to do?,0.3469,<0.0001
+What can be inferred about Newsweek Global?,nan,<0.0001
+What can be inferred from paragraph 4?,0.1303,<0.0001
+What can be inferred from the passage?,nan,<0.0001
+What can be inferred from the text?,0.0966,<0.0001
+What can be inferred from this conversation?,0.2213,<0.0001
+What can be inferred from this passage?,0.2617,<0.0001
+What can be inferred from this report?,nan,<0.0001
+What can we infer from the passage?,0.1584,<0.0001
+What can we tell from the conversation?,0.1653,<0.0001
+What climatic issues does Obama NOT mention specifically?,0.3232,<0.0001
+What did NOT happen because of the snow?,0.3506,<0.0001
+"What does ""that'll do it"" mean in this conversation?",0.3215,<0.0001
+What does Obama think of the climate change issue?,0.2794,<0.0001
+What does the $50 cover?,0.3102,<0.0001
+What does the U.S. plan to do with Snowden?,0.0994,<0.0001
+What does the customer need to buy?,0.3355,<0.0001
+What does the customer order?,0.1568,<0.0001
+What does the man want in his sub?,0.2733,<0.0001
+What does this exhibition feature?,0.1683,<0.0001
+What feature is the product known for?,0.1542,<0.0001
+What happened to Baby Shaker?,nan,<0.0001
+What happens to items that are confiscated?,0.0726,0.0023
+What information is NOT given?,0.2821,<0.0001
+"What is ""getting in the way"" of a shared culture?",nan,<0.0001
+What is Connie Vincent‚Äôs profession?,0.0416,0.0815
+What is Eric Schmidt's current job?,0.176,<0.0001
+What is NOT downtown?,0.1732,<0.0001
+What is NOT mentioned in this passage?,0.1498,<0.0001
+What is NOT true about the reviewer?,0.1882,<0.0001
+What is NOT true about this article?,0.3208,<0.0001
+What is NOT true about this passage?,0.1421,<0.0001
+What is NOT true about umami?,nan,<0.0001
+What is NOT true according to this passage?,0.2019,<0.0001
+What is Stephen's friend doing?,nan,<0.0001
+What is a possible outcome of the Nokia purchase?,nan,<0.0001
+"What is going to be ""monitored""?",0.1474,<0.0001
+What is inferred from this speech?,0.299,<0.0001
+What is most likely the cause for the shift to an all-digital format?,nan,<0.0001
+"What is most likely the reporter‚Äôs attitude toward ""Baby Shaker""?",nan,<0.0001
+What is most likely the significance of having ‚ÄúInfo Ladies‚Äù?,0.3587,<0.0001
+What is not stated as a possible reason for the change in airplane safety?,nan,<0.0001
+What is so special about Liberty and Peace?,0.1644,<0.0001
+What is something Stephen forgot?,nan,<0.0001
+What is something that is not mentioned in this passage?,0.1503,<0.0001
+What is something that the woman does NOT say?,nan,<0.0001
+What is the customer‚Äôs apartment number?,0.2003,<0.0001
+What is the difference between Liberty and Peace and the two unnamed turkeys mentioned in the audio?,0.2199,<0.0001
+What is the goal of this project?,0.0354,0.1378
+What is the goal of this study?,0.1157,<0.0001
+What is the main idea of this passage?,0.1417,<0.0001
+What is the man‚Äôs character supposed to do?,0.1764,<0.0001
+What is the most popular smoothie?,0.2747,<0.0001
+What is the passage mainly about?,0.2076,<0.0001
+What is the primary quality of an ideal candidate?,0.1969,<0.0001
+What is the purpose of referring to Shakespeare in this passage?,nan,<0.0001
+What is the purpose of the book?,0.1322,<0.0001
+What is the response of Hispanic advocacy groups to Walt Disney Co.‚Äôs new princess?,0.1551,<0.0001
+What is this passage about?,0.1851,<0.0001
+What is this passage mainly about?,0.2451,<0.0001
+What is true about Smokers' Helpline?,0.1593,<0.0001
+What is true about the item?,0.133,<0.0001
+What is true about the passage?,0.1589,<0.0001
+What is true about the tickets the airline employee recommends?,0.1565,<0.0001
+What is true about the tickets?,0.0925,0.0001
+What is true about this conversation?,0.3898,<0.0001
+What is true about this passage?,0.173,<0.0001
+What is true according to this audio?,nan,<0.0001
+What is true according to this passage?,0.1265,<0.0001
+What is unusual about this hamburger?,0.0917,0.0001
+What kinds of tickets does this office sell?,0.1739,<0.0001
+What made this situation a ‚Äúkick in the teeth‚Äù?,0.3514,<0.0001
+What noteworthy change does President Obama mention in his speech?,0.0626,0.0086
+What seems to be the author‚Äôs attitude toward journalistic sensationalism?,nan,<0.0001
+What size hard drive does the customer need to get?,0.3027,<0.0001
+What time is the appointment?,-0.1126,<0.0001
+What was NOT mentioned in this audio?,nan,<0.0001
+What was NOT mentioned in this passage?,nan,<0.0001
+What was the best food you had in the past year?,-0.0602,0.0116
+What were the ‚Äúunfounded allegations designed to destroy [his/her] career‚Äù?,nan,<0.0001
+What will Liberty do afterwards? ,0.1805,<0.0001
+What will happen as a result of the increase of taxes?,0.3501,<0.0001
+What will most likely happen next?,0.1609,<0.0001
+What would a creator need to do in order to utilize the service discussed here?,nan,<0.0001
+"When Matz Engman says ""this is huge"" in paragraph 4, ""this"" refers to ____________.",nan,<0.0001
+When did the man go to the electronics store?,0.1359,<0.0001
+When does the customer plan to come back from Atlanta?,0.193,<0.0001
+When is this office open?,0.1116,<0.0001
+"When it rains, she wears her rain boots.",0.0252,0.2919
+"When officials reported wanting to investigate the crime scene, the residents of the town refused to allow the officials to do so.",-0.0107,0.6535
+"When you ""engage vigorously"" in something, you ____________.",0.2562,<0.0001
+Where is Netflix located?,0.3235,<0.0001
+Which character does the man play?,0.1873,<0.0001
+Which film did Uggie NOT appear in?,0.2829,<0.0001
+Which food trend was NOT mentioned?,nan,<0.0001
+Which of the following best summarizes the thoughts reflected in this passage?,nan,<0.0001
+Which of the following events was important for her?,0.168,<0.0001
+Which of the following is NOT a gas mileage that was mentioned in this passage as being fuel-efficient?,0.1198,<0.0001
+Which of the following is NOT true about the art festival?,0.1673,<0.0001
+Which of the following is a true statement according to the passage?,nan,<0.0001
+Which of the following statements is not found in the passage?,0.1729,<0.0001
+Which statement is true about the show?,0.1176,<0.0001
+"While the Bolsa Mexicana de Valores SAB has actively courted algorithmic traders, the country is at least a decade behind the U.S. in terms of automation.",0.173,<0.0001
+"While we will consider these claims in more detail, the point that I would like to demonstrate is that none of the debates has reached closure. ",nan,<0.0001
+Who are Liberty and Peace?,0.1839,<0.0001
+Who created a budget plan that would cut trillions in federal spending?,0.168,<0.0001
+Who did Edward Snowden formerly work for?,0.1776,<0.0001
+Who first bought the dishwasher?,0.1511,<0.0001
+Who is NOT trying to make this hamburger?,0.131,<0.0001
+Who is Omar Van Muller?,0.3515,<0.0001
+Who is able to access the streaming service?,0.1127,<0.0001
+Who is most likely the audience of this lecture?,nan,<0.0001
+"Who is referred to as those ""in uniform""?",0.0534,0.0252
+"Who is the ""buddy"" Stephen's friend refers to? ",nan,<0.0001
+Who is the direct overseer of Immigration and Customs Enforcement?,nan,<0.0001
+Who oversees privacy issues in the United States?,0.0691,0.0038
+Who owns the building?,0.0936,<0.0001
+Who spray-painted the building?,0.0868,0.0003
+Who wrote the song ‚ÄúI Was Here‚Äù?,0.1334,<0.0001
+Whoever the population elects as president will have a long road ahead.,0.1651,<0.0001
+Whomever the committee selects for this scholarship will also be presented at the school assembly.,nan,<0.0001
+Why are some people angry with Baby Shaker?,nan,<0.0001
+Why did Beyonce perform at the UN?,0.154,<0.0001
+Why did Josephine say she would invent the dishwasher?,0.117,<0.0001
+Why did the man go to the electronics store?,0.0176,0.4597
+Why does the author consider contemporary culture to be eclectic?,nan,<0.0001
+Why does the customer call Delta Airlines?,0.1474,<0.0001
+Why does the customer decline recommendations for a hotel?,0.1664,<0.0001
+Why does the seat need to be in its upright position during take off and landing?,0.1832,<0.0001
+Why don't you take a walk outside? It'll make you feel more refreshed.,0.1933,<0.0001
+"Why haven't officials responded to the case? Until they do, citizens will continue to grow suspicious.",nan,<0.0001
+Why is Josephine Cochrane important? ,0.0914,0.0001
+Why is an increase of taxes on a beverage taking place?,0.3423,<0.0001
+"Why is the ""buddy"" going to the VA clinic?",nan,<0.0001
+"With the exception of seven children, everyone in the building was confronted by the police.",0.3389,<0.0001
+With which of the following statements would the man most agree?,0.0428,0.0729
+With which of the following statements would the people in this audio agree?,nan,<0.0001
+Women are working together in an office.,0.1672,<0.0001
+Would you mind opening that window on your way out? It's really stuffy in here.,nan,<0.0001
+You should have an apple each day.,0.1048,<0.0001
+You're never responsible for unauthorized purchases on your Discover card.,0.1602,<0.0001
+Your body breaks food down into glucose in order to use it for fuel.,0.1444,<0.0001
+____________ is a main component of IRT. ,0.1915,<0.0001
+"‚ÄúMaleficent‚Äù aims to be both a retelling of the fairy tale ‚Äî albeit taking several eyebrow-raising artistic liberties ‚Äî and an exploration of her past, to show what made her so cruel.",nan,<0.0001
