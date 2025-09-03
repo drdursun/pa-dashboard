@@ -216,28 +216,35 @@ st.image("images/reading_passages_cefr_distribution.png", use_container_width=Tr
 st.header("Reading Question CEFR Distribution")
 st.image("images/reading_questions_cefr_distribution.png", use_container_width=True)
 
-# 3) Passage vs Question CEFR Levels with How-to Sidebar
-st.sidebar.header("How to Interpret the Passage vs Question Heatmap")
-st.sidebar.markdown(
-    """
-    1. Axes
-       * The vertical axis lists the CEFR levels assigned to each passage (from Pre-A1 up to C1).
-       * The horizontal axis lists the CEFR levels assigned to each question under those passages.
-    2. Cells & Color Intensity
-       * Each cell’s number is the count of question–passage pairs that share that combination of predicted levels.
-       * Darker (warmer) colors mean more items fell into that cell; lighter (cooler) colors mean fewer.
-    3. The Diagonal
-       * Cells along the diagonal (where passage level = question level) show how often questions landed in the same band as their passage.
-       * A strong diagonal indicates that question difficulty generally matches passage difficulty.
-    4. Off-Diagonal Patterns
-       * Cells above the diagonal (passage level < question level) flag questions predicted harder than their passage.
-       * Cells below the diagonal (passage level > question level) flag questions predicted easier than their passage.
-    5. Row & Column Reads
-       * Reading across a single row shows the distribution of question levels for one passage level. For example, the “B1” row tells you: out of all B1 passages, how many questions were tagged A2, B1, B2, etc.
-       * Reading down a column shows where questions at a given level came from in terms of passage levels. For example, the “A2+” column tells you: of all A2+ questions, how many were written under passages of each level.
-    """
-)
+# 3) Passage vs Question CEFR Levels with Collapsible How-To Sidebar
+with st.sidebar.expander("How to Interpret the Passage vs Question Heatmap", expanded=False):
+    st.markdown(
+        """
+1. Axes  
+   * The vertical axis lists the CEFR levels assigned to each passage (from Pre-A1 up to C1).  
+   * The horizontal axis lists the CEFR levels assigned to each question under those passages.  
+
+2. Cells & Color Intensity  
+   * Each cell’s number is the count of question–passage pairs that share that combination of predicted levels.  
+   * Darker (warmer) colors mean more items fell into that cell; lighter (cooler) colors mean fewer.  
+
+3. The Diagonal  
+   * Cells along the diagonal (where passage level = question level) show how often questions landed in the same band as their passage.  
+   * A strong diagonal indicates that question difficulty generally matches passage difficulty.  
+
+4. Off-Diagonal Patterns  
+   * Cells above the diagonal (passage level < question level) flag questions predicted harder than their passage.  
+   * Cells below the diagonal (passage level > question level) flag questions predicted easier than their passage.  
+
+5. Row & Column Reads  
+   * Reading across a single row shows the distribution of question levels for one passage level.  
+     For example, the “B1” row tells you: out of all B1 passages, how many questions were tagged A2, B1, B2, etc.  
+   * Reading down a column shows where questions at a given level came from in terms of passage levels.  
+     For example, the “A2+” column tells you: of all A2+ questions, how many were written under passages of each level.
+        """
+    )
 
 st.header("Passage vs Question CEFR Levels")
 st.image("images/passage_question_cefr_heatmap.png", use_container_width=True)
+
 
