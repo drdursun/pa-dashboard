@@ -205,4 +205,30 @@ st.dataframe(
     }),
     use_container_width=True
 )
+st.markdown("---")  # horizontal separator
+
+# 1) Reading Passages CEFR Distribution
+st.header("Reading Passages CEFR Distribution")
+st.image("images/reading_passages_cefr_distribution.png", use_column_width=True)
+
+# 2) Reading Question CEFR Distribution
+st.header("Reading Question CEFR Distribution")
+st.image("images/reading_questions_cefr_distribution.png", use_column_width=True)
+
+# 3) Passage vs Question CEFR Levels with How-to Sidebar
+st.header("Passage vs Question CEFR Levels")
+col1, col2 = st.columns([1, 3])
+
+with col1:
+    st.subheader("How to Read This Heatmap")
+    st.markdown(
+        "1. Vertical axis: CEFR levels for each PA passage.\n"
+        "2. Horizontal axis: CEFR levels for each PA question.\n"
+        "3. Each cell’s count shows how many passage–question pairs share those levels.\n"
+        "4. The diagonal highlights where question difficulty matches passage difficulty.\n"
+        "5. Off-diagonal cells reveal questions harder or easier than their passages."
+    )
+
+with col2:
+    st.image("images/passage_question_cefr_heatmap.png", use_column_width=True)
 
